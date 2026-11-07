@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "plyer_demo",
+  "versions": [
+    {
+      "commit": "cddd68a68751b66e8a47f681b9edc0329eba0549",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:24:11.653643+00:00"
+    }
+  ]
+}
