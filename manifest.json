@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "kivy",
+  "repo": "plyer_demo",
+  "versions": [
+    {
+      "commit": "cddd68a68751b66e8a47f681b9edc0329eba0549",
+      "parsed_at": "2026-11-07T12:22:25.754654+00:00",
+      "filetree": "filetree/cddd68a68751b66e8a47f681b9edc0329eba0549.nq.gz",
+      "blobs": [
+        "blob/f3e6a67e241ac067ac60ff98f35221f845e15dfa.nq.gz",
+        "blob/8a8da269245cd4c10f8e413974532d6f6b815581.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
